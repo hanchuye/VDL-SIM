@@ -1,2 +1,2 @@
 # VDL-SIM
-Paper：Real-time and high-fidelity super-resolution SIM reconstruction enabled by deep learning.
+Paper：Video-level and high-fidelity super-resolution SIM reconstruction enabled by deep learning.
